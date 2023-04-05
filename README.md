@@ -1,2 +1,2 @@
 # wirless-speaker
-bloototh working speaker
+bluetooth working speaker
